@@ -2,12 +2,26 @@
 
 *Making a website from scratch for absolute beginners*
 
+# Programming Concepts: Introduction for Absolute Beginners
+
 ## Workshop Description
 
 The Web has become an integral part of everyday lives and it plays a crucial role in modern college education. A better understanding of the basics of web development is a stepping-stone for participants looking to further dive into professional web development and it also provides invaluable insights to everyday web users. This workshop series provides an overview of the basics of HTML, CSS, JavaScript, which are the building blocks of the Web. It will also provide an introduction to libraries, frameworks, APIs, giving the participants an opportunity to further expand their capabilities. The participants will learn how websites are made: designing layouts, adding content, manipulating styles, and implementing interactive features. By the end of the workshop series, all participants will have their own unique website that is accessible to the world, and they will have the skills and resources to build a more complex website on their own.
 
+
+
+## Aim
+
+This WORKSHOP is aimed at those new to programming, or who have never been formally taught the principles and basic concepts of programming.
+
 ## Schedule
 
+| Section  | Topic                                         |
+| -------- | --------------------------------------------- |
+| Part I   | HTML & CSS Designing Layouts,Content & Styles |
+| Part II  | JavaScript, Adding Interactive Features       |
+| Part III |                                               |
+| Part IV  |                                               |
 
 ## Learning Outcomes
 
@@ -24,3 +38,7 @@ By the end of the workshop series, participants will
 ## Teaching Methodology
 
 This workshop series embraces an example-based learning process. The participants will be given code examples that slowly guide them as the workshop progresses. It also focuses on learning by practicing. The participants will be assigned homework that motivates them to branch out and learn on their own. The participants will be encouraged to come up with creative solutions of their own, instead of rigidly following the path of the old-timers.
+
+## Resources
+
+* W3Schools: [https://www.w3schools.com](https://www.w3schools.com/)
